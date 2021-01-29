@@ -2,7 +2,7 @@
     <img width="125" alt="Germany country flag" src="./resources/images/germany-country.svg" />
 </p>
 
-<h3 align="center">Simple guide to learn German language</h3>
+<h3 align="center">Simple guide to learn/teach German language </h3>
 
 <hr/>
 
@@ -12,7 +12,7 @@ Version 0.1.0-alpha
 #### Content
 * [Lección 1: Los articulos en aleman DER, DAS, DIE](./docs/week-01.md#articulos-determinados)
 * [Lección 2: El abecedario en aleman - aleman pronunciacion y fonetica](./docs/week-01.md#das-deutsche-alphabet)
-* [Lección 3: Aleman pronunciacion - fonetica del aleman](./docs/week-01.md#los-numeros-en-alemán )
+* [Lección 3: Aleman pronunciacion - fonetica del aleman](./docs/week-01.md#los-números-en-alemán)
 
 
 
