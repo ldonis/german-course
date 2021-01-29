@@ -6,8 +6,6 @@
 
 <hr/>
 
-Version 0.1.0-alpha
-
 
 #### Content
 * [Lección 1: Los articulos en aleman DER, DAS, DIE](./docs/week-01.md#articulos-determinados)
